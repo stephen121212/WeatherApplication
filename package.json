@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "postman-request": "^2.88.1-postman.22"
+    "postman-request": "^2.88.1-postman.22",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
   "scripts": {
